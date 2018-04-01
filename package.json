@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BreankingBad/koa_movie/issues"
   },
-  "homepage": "https://github.com/BreankingBad/koa_movie#readme"
+  "homepage": "https://github.com/BreankingBad/koa_movie#readme",
+  "devDependencies": {
+    "node-fetch": "^2.1.2"
+  }
 }
