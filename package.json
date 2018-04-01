@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/BreankingBad/koa_movie#readme",
   "devDependencies": {
+    "co": "^4.6.0",
     "node-fetch": "^2.1.2"
   }
 }
